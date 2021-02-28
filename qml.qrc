@@ -18,5 +18,6 @@
         <file>week/Header.qml</file>
         <file>week/Day.qml</file>
         <file>week/RowText.qml</file>
+        <file>README.md</file>
     </qresource>
 </RCC>
