@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Branch.qml</file>
+        <file>K.pro</file>
+        <file>K.pro.user</file>
+        <file>main.cpp</file>
+        <file>qml.qrc</file>
+        <file>img/back.png</file>
+        <file>img/calendar.png</file>
+        <file>img/vpoint.png</file>
+        <file>img/week.png</file>
+        <file>Week.qml</file>
+        <file>week/Header.qml</file>
+        <file>week/Day.qml</file>
+        <file>week/RowText.qml</file>
+    </qresource>
+</RCC>
